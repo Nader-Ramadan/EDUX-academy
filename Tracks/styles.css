@@ -1,0 +1,807 @@
+    .courses-tracks-child {
+    position: absolute;
+    top: 5221px;
+    left: 1920px;
+    background-color: var(--color-whitesmoke-100);
+    width: 1920px;
+    height: 5077px;
+    transform: rotate(-180deg);
+    transform-origin: 0 0;
+    }
+    .rectangle-icon {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 1920px;
+    height: 759px;
+    object-fit: cover;
+    }
+    .our-courses {
+    position: absolute;
+    top: 246.9px;
+    left: 144px;
+    font-size: var(--font-size-61xl);
+    line-height: 90px;
+    display: flex;
+    align-items: center;
+    width: 588px;
+    height: 105.7px;
+    }
+    .group-child43 {
+    position: absolute;
+    top: 543px;
+    left: 156px;
+    border-radius: var(--br-12xs);
+    background-color: var(--color-royalblue-200);
+    width: 304px;
+    height: 42px;
+    cursor: pointer;
+    }
+    .explore-courses2 {
+    position: absolute;
+    top: 554.9px;
+    left: 162.1px;
+    font-size: var(--font-size-xl);
+    line-height: 15px;
+    display: inline-block;
+    font-family: var(--font-droid-arabic-kufi);
+    text-align: center;
+    width: 297.9px;
+    height: 17.5px;
+    }
+    .vector-icon7 {
+    position: absolute;
+    height: 79.89%;
+    width: 11.35%;
+    top: 10.05%;
+    right: 88.65%;
+    bottom: 10.05%;
+    left: 0;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+    object-fit: cover;
+    }
+    .home1 {
+    position: absolute;
+    top: 0;
+    left: 21px;
+    text-decoration: underline;
+    line-height: 17.5px;
+    text-transform: capitalize;
+    display: flex;
+    align-items: center;
+    width: 42px;
+    height: 18.9px;
+    cursor: pointer;
+    }
+    .vector-icon8 {
+    position: absolute;
+    height: 42.86%;
+    width: 2.34%;
+    top: 28.57%;
+    right: 48.65%;
+    bottom: 28.57%;
+    left: 49.01%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+    object-fit: cover;
+    }
+    .courses2 {
+    position: absolute;
+    top: 0;
+    left: 83px;
+    text-decoration: underline;
+    line-height: 17.5px;
+    text-transform: capitalize;
+    display: flex;
+    align-items: center;
+    width: 58px;
+    height: 18.9px;
+    }
+    .vector-parent {
+    position: absolute;
+    height: 2.49%;
+    width: 7.34%;
+    top: 9.95%;
+    right: 84.53%;
+    bottom: 87.56%;
+    left: 8.13%;
+    font-size: var(--wwwnawycom-poppins-regular-14-underline-title-size);
+    font-family: var(--wwwnawycom-poppins-regular-14-underline-title);
+    }
+    .rs-layer-wrap-rs-loop-wrap3,
+    .rs-layer-wrap-rs-loop-wrap4 {
+    position: absolute;
+    left: 147px;
+    letter-spacing: 3px;
+    text-transform: uppercase;
+    font-weight: 600;
+    color: var(--color-gray-500);
+    width: 460px;
+    }
+    .rs-layer-wrap-rs-loop-wrap3 {
+    top: 221px;
+    line-height: 20px;
+    display: flex;
+    align-items: center;
+    height: 14px;
+    }
+    .rs-layer-wrap-rs-loop-wrap4 {
+    top: 378.4px;
+    line-height: 31px;
+    display: inline-block;
+    height: 242.6px;
+    }
+    .courses-tracks-inner,
+    .rectangle-parent17 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 1920px;
+    height: 759px;
+    }
+    .courses-tracks-inner {
+    top: 144px;
+    }
+    .courses-tracks-item {
+    position: absolute;
+    height: 25.49%;
+    width: 47.98%;
+    top: 3.23%;
+    right: -26.68%;
+    bottom: 71.28%;
+    left: 78.7%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+    object-fit: cover;
+    display: none;
+    }
+    .group-child44 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    background-color: var(--color-royalblue-200);
+    width: 1920px;
+    height: 541px;
+    }
+    .iconsbehanceline1,
+    .iconsdribbbleline1,
+    .iconsfacebookline1,
+    .iconsinstagramline1,
+    .iconstwitterline1 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 19.9px;
+    height: 20px;
+    overflow: hidden;
+    object-fit: cover;
+    }
+    .iconsbehanceline1,
+    .iconsdribbbleline1,
+    .iconsinstagramline1,
+    .iconstwitterline1 {
+    left: 51.7px;
+    }
+    .iconsbehanceline1,
+    .iconsdribbbleline1,
+    .iconsinstagramline1 {
+    left: 103.4px;
+    }
+    .iconsbehanceline1,
+    .iconsdribbbleline1 {
+    left: 155px;
+    }
+    .iconsdribbbleline1 {
+    left: 206.7px;
+    }
+    .iconsfacebookline-group {
+    position: absolute;
+    top: 480px;
+    left: 1541.4px;
+    width: 226.6px;
+    height: 20px;
+    }
+    .quick-links1 {
+    position: absolute;
+    top: 142px;
+    left: 734px;
+    font-size: var(--font-size-6xl);
+    line-height: 24px;
+    display: flex;
+    font-family: var(--font-rowdies);
+    align-items: flex-end;
+    width: 179px;
+    }
+    .about-us2,
+    .tracks3 {
+    left: 740px;
+    font-weight: 500;
+    display: flex;
+    align-items: flex-end;
+    cursor: pointer;
+    }
+    .tracks3 {
+    position: absolute;
+    top: 227px;
+    line-height: 28px;
+    width: 72px;
+    }
+    .about-us2 {
+    top: 329px;
+    width: 93px;
+    }
+    .about-us2,
+    .copyright-20241,
+    .courses3 {
+    position: absolute;
+    line-height: 28px;
+    }
+    .courses3 {
+    top: 278px;
+    left: 740px;
+    font-weight: 500;
+    display: flex;
+    align-items: flex-end;
+    width: 93px;
+    cursor: pointer;
+    }
+    .copyright-20241 {
+    height: 4.07%;
+    width: 16.98%;
+    top: 88.54%;
+    left: 8.65%;
+    display: inline-block;
+    }
+    .contact-us2 {
+    position: absolute;
+    top: 142px;
+    left: 1100px;
+    font-size: var(--font-size-6xl);
+    line-height: 24px;
+    display: flex;
+    font-family: var(--font-rowdies);
+    align-items: flex-end;
+    width: 140px;
+    }
+    .group-child45 {
+    position: absolute;
+    top: 445.5px;
+    left: 165.5px;
+    border-top: 1px solid var(--color-gray-600);
+    box-sizing: border-box;
+    width: 1601px;
+    height: 1px;
+    }
+    .div4,
+    .phone-icon-11 {
+    position: absolute;
+    top: 0;
+    }
+    .div4 {
+    left: 43.7px;
+    line-height: 18px;
+    font-weight: 500;
+    display: inline-block;
+    width: 263.4px;
+    height: 15px;
+    }
+    .phone-icon-11 {
+    left: 0;
+    width: 19px;
+    height: 19px;
+    overflow: hidden;
+    object-fit: cover;
+    }
+    .ash-dr-san1,
+    .parent1 {
+    position: absolute;
+    top: 6px;
+    left: 0;
+    width: 307px;
+    height: 19px;
+    }
+    .ash-dr-san1 {
+    top: 0;
+    left: 45.7px;
+    line-height: 25px;
+    font-weight: 500;
+    display: inline-block;
+    width: 263.4px;
+    height: 44px;
+    }
+    .ash-dr-san-jose-south-dakota-group {
+    position: absolute;
+    top: 0;
+    left: 340.9px;
+    width: 309.1px;
+    height: 44px;
+    }
+    .michelleriveraexamplecom1 {
+    position: absolute;
+    top: 0;
+    left: 44.7px;
+    line-height: 18px;
+    font-weight: 500;
+    display: inline-block;
+    width: 273.3px;
+    height: 15px;
+    }
+    .group-child46 {
+    position: absolute;
+    height: 92%;
+    width: 5.06%;
+    top: 6.67%;
+    right: 94.94%;
+    bottom: 1.33%;
+    left: 0;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+    object-fit: cover;
+    }
+    .michelleriveraexamplecom-group {
+    position: absolute;
+    top: 60px;
+    left: 0;
+    width: 318px;
+    height: 15px;
+    }
+    .group-parent2,
+    .icon6 {
+    position: absolute;
+    top: 236px;
+    left: 1100px;
+    width: 649.9px;
+    height: 75px;
+    }
+    .icon6 {
+    top: 91px;
+    left: 210px;
+    width: 267px;
+    height: 286px;
+    object-fit: cover;
+    cursor: pointer;
+    }
+    .group-child47,
+    .rectangle-parent18 {
+    position: absolute;
+    top: 3139px;
+    left: 0;
+    width: 1920px;
+    height: 541px;
+    }
+    .group-child47 {
+    height: 100%;
+    width: 100%;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    border-radius: 8px;
+    background-color: var(--color-white);
+    border: 1px solid var(--color-royalblue-200);
+    box-sizing: border-box;
+    }
+    .vector-icon9 {
+    position: absolute;
+    height: 20.69%;
+    width: 1.9%;
+    top: 37.93%;
+    right: 92.64%;
+    bottom: 41.38%;
+    left: 5.46%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+    object-fit: cover;
+    }
+    .b,
+    .div5,
+    .div6,
+    .previous {
+    position: absolute;
+    top: 8.62%;
+    left: 9.24%;
+    line-height: 46px;
+    }
+    .b,
+    .div5,
+    .div6 {
+    left: 29.67%;
+    }
+    .div5,
+    .div6 {
+    left: 40.95%;
+    }
+    .div6 {
+    left: 52.35%;
+    }
+    .vector-icon10 {
+    position: absolute;
+    height: 3.45%;
+    width: 2.38%;
+    top: 46.55%;
+    right: 35.7%;
+    bottom: 50%;
+    left: 61.92%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+    object-fit: cover;
+    }
+    .div7 {
+    top: 8.62%;
+    left: 70.05%;
+    line-height: 46px;
+    }
+    .div7,
+    .next,
+    .pseudo {
+    position: absolute;
+    }
+    .pseudo {
+    height: 55.17%;
+    width: 0.24%;
+    top: 20.69%;
+    right: 21.21%;
+    bottom: 24.14%;
+    left: 78.55%;
+    background-color: var(--color-royalblue-200);
+    }
+    .next {
+    top: 8.62%;
+    left: 84.77%;
+    line-height: 46px;
+    }
+    .vector-icon11 {
+    position: absolute;
+    height: 20.69%;
+    width: 1.9%;
+    top: 37.93%;
+    right: 4.96%;
+    bottom: 41.38%;
+    left: 93.14%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+    object-fit: cover;
+    }
+    .group-child48 {
+    position: absolute;
+    height: 100%;
+    width: 11.16%;
+    top: 0;
+    right: 63.66%;
+    bottom: 0;
+    left: 25.18%;
+    border: 0.8px solid var(--color-royalblue-200);
+    box-sizing: border-box;
+    }
+    .rectangle-parent19 {
+    position: absolute;
+    height: 1.58%;
+    width: 21.93%;
+    top: 81.71%;
+    right: 39.06%;
+    bottom: 16.71%;
+    left: 39.01%;
+    text-align: center;
+    font-size: var(--wwwnawycom-poppins-regular-14-underline-title-size);
+    color: var(--color-royalblue-200);
+    font-family: var(--font-cairo);
+    }
+    .group-child49 {
+    position: absolute;
+    top: 68px;
+    left: 2px;
+    border-radius: var(--br-xl);
+    background-color: var(--color-white);
+    width: 510px;
+    height: 503px;
+    }
+    .mask-group-icon7 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 511px;
+    height: 314px;
+    object-fit: cover;
+    }
+    .group-child50 {
+    position: absolute;
+    top: 314px;
+    left: 0;
+    border-radius: 0 0 var(--br-xl) var(--br-xl);
+    background-color: var(--color-white);
+    width: 512px;
+    height: 257px;
+    }
+    .more-details7,
+    .programming3 {
+    position: absolute;
+    display: inline-block;
+    }
+    .programming3 {
+    top: 373px;
+    left: 28px;
+    letter-spacing: -0.03em;
+    line-height: 35px;
+    width: 311px;
+    height: 71px;
+    }
+    .more-details7 {
+    height: 100%;
+    width: 73.55%;
+    top: 0;
+    left: 0;
+    font-weight: 500;
+    }
+    .vector-icon12 {
+    position: absolute;
+    height: 39.29%;
+    width: 19.35%;
+    top: 39.29%;
+    right: 0;
+    bottom: 21.43%;
+    left: 80.65%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+    object-fit: cover;
+    }
+    .more-details-parent5 {
+    position: absolute;
+    height: 4.9%;
+    width: 30.27%;
+    top: 87.92%;
+    right: 6.45%;
+    bottom: 7.18%;
+    left: 63.28%;
+    cursor: pointer;
+    text-align: center;
+    font-size: var(--font-size-lgi);
+    color: var(--color-royalblue-200);
+    }
+    .lorem-ipsum-is11 {
+    position: absolute;
+    top: 431px;
+    left: 27px;
+    font-size: var(--font-size-6xl);
+    letter-spacing: -0.03em;
+    line-height: 35px;
+    font-weight: 600;
+    display: inline-block;
+    width: 447px;
+    height: 71px;
+    }
+    .rectangle-parent20 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    box-shadow: 0 4px 4px rgba(217, 236, 255, 0.5);
+    width: 512px;
+    height: 571px;
+    }
+    .group-wrapper6,
+    .group-wrapper7,
+    .group-wrapper8 {
+    position: absolute;
+    top: 142px;
+    left: 1166px;
+    width: 512px;
+    height: 571px;
+    font-size: var(--font-size-16xl);
+    }
+    .group-wrapper7,
+    .group-wrapper8 {
+    top: 758px;
+    }
+    .group-wrapper8 {
+    top: 1374px;
+    }
+    .more-details-parent8 {
+    position: absolute;
+    height: 4.9%;
+    width: 30.27%;
+    top: 87.92%;
+    right: 6.45%;
+    bottom: 7.18%;
+    left: 63.28%;
+    cursor: pointer;
+    text-align: center;
+    color: var(--color-royalblue-200);
+    }
+    .programming6 {
+    position: absolute;
+    top: 373px;
+    left: 28px;
+    font-size: var(--font-size-16xl);
+    letter-spacing: -0.03em;
+    line-height: 35px;
+    display: inline-block;
+    width: 311px;
+    height: 71px;
+    }
+    .group-wrapper10,
+    .group-wrapper11,
+    .group-wrapper9 {
+    position: absolute;
+    top: 142px;
+    left: 583px;
+    width: 512px;
+    height: 571px;
+    }
+    .group-wrapper10,
+    .group-wrapper11 {
+    top: 758px;
+    }
+    .group-wrapper11 {
+    top: 1374px;
+    }
+    .group-wrapper12,
+    .group-wrapper13,
+    .group-wrapper14 {
+    position: absolute;
+    top: 142px;
+    left: 0;
+    width: 512px;
+    height: 571px;
+    }
+    .group-wrapper13,
+    .group-wrapper14 {
+    top: 758px;
+    }
+    .group-wrapper14 {
+    top: 1374px;
+    }
+    .more-courses-from2 {
+    position: absolute;
+    top: 0;
+    left: 2px;
+    font-size: var(--font-size-21xl);
+    letter-spacing: -0.03em;
+    line-height: 70px;
+    color: var(--color-darkslategray-200);
+    }
+    .group-parent3 {
+    position: absolute;
+    top: 960px;
+    left: 121px;
+    width: 1678px;
+    height: 1945px;
+    font-size: var(--font-size-lgi);
+    color: var(--color-gray-300);
+    }
+    .group-child67 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    background-color: var(--color-white);
+    width: 1920px;
+    height: 144px;
+    }
+    .what-do-you2 {
+    position: absolute;
+    top: 23px;
+    left: 35px;
+    display: flex;
+    align-items: center;
+    width: 258px;
+    height: 18px;
+    }
+    .icon7 {
+    position: absolute;
+        top: 14px;
+    left: 30px;
+    width: 20px;
+    height: 20px;
+    overflow: hidden;
+    object-fit: cover;
+    }
+    .search2 {
+    top: 15.9px;
+    left: 62px;
+    line-height: 28.8px;
+    font-weight: 500;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 50.2px;
+    height: 18px;
+    }
+    .button2,
+    .form2,
+    .search2 {
+    position: absolute;
+    }
+    .button2 {
+    top: calc(50% - 25px);
+    left: 337px;
+    border-radius: var(--br-3xs);
+    background-color: var(--color-royalblue-200);
+    width: 142px;
+    height: 49.7px;
+    text-align: center;
+    font-size: var(--font-size-mini);
+    color: var(--color-white);
+    font-family: var(--font-inter);
+    }
+    .form2 {
+    top: 40px;
+    left: 1366px;
+    border-radius: var(--br-6xs);
+    background-color: var(--color-white);
+    border: 1px solid var(--color-gray-700);
+    box-sizing: border-box;
+    width: 489px;
+    height: 70px;
+    font-size: var(--font-size-base);
+    color: var(--color-gray-200);
+    }
+    .about-us3,
+    .contact-us3,
+    .courses4,
+    .home2,
+    .tracks4 {
+    position: absolute;
+    top: 62px;
+    line-height: 26px;
+    text-transform: capitalize;
+    font-weight: 500;
+    cursor: pointer;
+    }
+    .home2 {
+    left: 607px;
+    color: var(--color-royalblue-200);
+    }
+    .about-us3,
+    .contact-us3,
+    .courses4,
+    .tracks4 {
+    left: 716px;
+    }
+    .about-us3,
+    .contact-us3,
+    .tracks4 {
+    left: 959px;
+    }
+    .contact-us3,
+    .tracks4 {
+    left: 844px;
+    }
+    .contact-us3 {
+    left: 1099px;
+    white-space: pre-wrap;
+    }
+    .c-users-tag-appdata-local-tem-icon1 {
+    position: absolute;
+    top: 7px;
+    left: 129px;
+    width: 127px;
+    height: 137px;
+    object-fit: cover;
+    cursor: pointer;
+    }
+    .rectangle-parent29 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 1920px;
+    height: 144px;
+    font-size: var(--font-size-xl);
+    color: var(--color-gray-300);
+    }
+    .courses-tracks {
+    position: relative;
+    background-color: var(--color-white);
+    width: 100%;
+    height: 3680px;
+    overflow: hidden;
+    text-align: left;
+    font-size: var(--font-size-lg);
+    color: var(--color-white);
+    font-family: var(--font-saira);
+    }

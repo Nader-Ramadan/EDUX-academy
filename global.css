@@ -1,0 +1,77 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --font-saira: Saira;
+  --font-inter: Inter;
+  --headings-h6-700: Hind;
+  --font-rowdies: Rowdies;
+  --wwwnawycom-poppins-regular-14-underline-title: Poppins;
+  --font-droid-arabic-kufi: "Droid Arabic Kufi";
+  --wwwspidernetonlinecom-roboto-regular-12: Roboto;
+  --font-satoshi: Satoshi;
+  --font-cairo: Cairo;
+
+  /* font sizes */
+  --font-size-xl: 20px;
+  --font-size-base: 16px;
+  --font-size-mini: 15px;
+  --font-size-lg: 18px;
+  --font-size-61xl: 80px;
+  --headings-h6-700-size: 21px;
+  --headings-h3-700-size: 50px;
+  --font-size-21xl: 40px;
+  --font-size-16xl: 35px;
+  --font-size-6xl: 25px;
+  --font-size-lgi: 19px;
+  --font-size-26xl: 45px;
+  --font-size-56xl: 75px;
+  --wwwnawycom-poppins-regular-14-underline-title-size: 14px;
+  --font-size-3xs: 10px;
+  --wwwspidernetonlinecom-roboto-regular-12-size: 12px;
+  --wwwudemycom-roboto-regular-1389-size: 13.9px;
+  --wwwudemycom-roboto-bold-24-size: 24px;
+
+  /* Colors */
+  --color-white: #fff;
+  --color-royalblue-100: #1a73e8;
+  --color-royalblue-200: #0049af;
+  --color-gray-100: #fafafa;
+  --color-gray-200: #7d7d7d;
+  --color-gray-300: #1c1c1c;
+  --color-gray-400: rgba(0, 0, 0, 0.25);
+  --color-gray-500: rgba(255, 255, 255, 0.32);
+  --color-gray-600: rgba(255, 255, 255, 0.8);
+  --color-gray-700: rgba(0, 0, 0, 0.5);
+  --color-darkslategray-100: #3e4245;
+  --color-darkslategray-200: #323232;
+  --color-darkslategray-300: #2d2f31;
+  --color-darkslategray-400: rgba(50, 50, 50, 0.25);
+  --color-whitesmoke-100: #f7f7f7;
+  --color-whitesmoke-200: #f5f5f5;
+  --color-gainsboro-100: #e5e3df;
+  --color-black: #000;
+  --color-dimgray: #5b5b5b;
+
+  /* Gaps */
+  --gap-5xs: 8px;
+
+  /* Paddings */
+  --padding-12xs: 1px;
+  --padding-11xs: 2px;
+  --padding-12xs-1: 0.1px;
+  --padding-7xs: 6px;
+  --padding-3xs: 10px;
+
+  /* Border radiuses */
+  --br-6xs: 7px;
+  --br-3xs: 10px;
+  --br-8xs: 5px;
+  --br-xl: 20px;
+  --br-11xl: 30px;
+  --br-12xs: 1px;
+  --br-11xs: 2px;
+}
